@@ -1,0 +1,26 @@
+.wel{
+height: 100vh;
+background-color: rgb(29, 29, 100);
+width: 100%;
+color: white;
+
+
+}
+.wel1{
+font-size: 40px;
+font-style: italic;
+text-align: center;
+height: 30vh;
+padding-top:80px;
+
+}
+.wel2{
+font-size: 20px;
+text-align: center;
+}
+.imgW{
+    width:100%;
+    padding-top: 30px;
+    display: flex;
+    justify-content: center;
+}

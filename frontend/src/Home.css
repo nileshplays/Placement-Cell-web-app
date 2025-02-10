@@ -1,0 +1,268 @@
+
+.body {
+    font-family: Arial, sans-serif;
+    background-color:white;
+}
+
+.header{
+height:80px;
+background-color:rgb(29, 29, 100);
+color:white;
+
+}
+
+.logo {
+    height: 60px;
+    padding-left: 10px;
+    padding-top: 10px;
+    pointer-events: none;
+    float: left;
+  }
+  .image{
+    height: 60px;
+  }
+  .txt1{
+    float:left;
+    height: 70px;
+    width: 500px;
+    padding-left: 10px;
+    padding-top: 10px;
+    font-size: 29px;
+    font-weight:bold;
+    
+  }
+
+.header1 {
+    list-style-type: none;
+    height: 60px;
+    display: flex;
+    margin: 10px;
+    float: right;
+    width:100px;
+    
+}
+.home{
+padding: 10px;
+font-weight:bold;
+float:right;
+font-size: 17px;
+width: 100px;
+}
+.home:hover{
+    font-size: 20px;
+    color:rgba(0, 255, 255, 0.406);
+}
+.login{
+    padding: 10px;
+    font-weight:bold;
+    float:right;
+    font-size: 17px;  
+    width: 100px;
+}
+.login:hover{
+    font-size: 20px;
+    color:rgba(0, 255, 255, 0.406); 
+}
+.contact{
+    padding: 10px;
+    font-weight:bold;
+    float:right;
+    font-size: 17px;
+    width: 100px;
+
+}
+.contact:hover{
+    font-size: 20px;
+    color:rgba(0, 255, 255, 0.406); 
+}
+.site{
+    padding: 10px;
+    font-weight:bold;
+    float:right;
+    font-size: 17px;
+    width: 100px;
+}
+.site:hover{
+    font-size: 20px;
+    color:rgba(0, 255, 255, 0.406);  
+}
+.background{
+    width:100%;
+}
+.bgimage{
+ width:100%;
+ height: auto;
+}
+.Overview{
+width:55%;
+background-color: rgb(233, 237, 237);
+border-radius: 10px;
+color:black;
+margin-top:50px;
+margin-left: 3%;
+float: left;
+margin-right: 8%;
+
+}
+.Overview1{
+  font-size:31px;
+  width:95%;
+  margin-left: 3%;
+  font-weight: bolder;
+  padding-top: 20px;
+  
+}
+.Overview2{
+    font-size:20px;
+    width:95%;
+    margin-left: 3%;
+    margin-top: 20px;
+    word-spacing: 1px;
+    letter-spacing: 1px;
+    padding-bottom: 40px;
+}
+.signup{
+    width:31%;
+    background-color: rgb(233, 237, 237);
+    border-radius: 10px;
+    color:black;
+    margin-top:50px;
+    margin-right: 3%;
+    float:right;
+    padding-bottom: 40px;
+}
+.login1{
+    width:80%;
+    background-color:rgb(29, 29, 100);
+    margin-left: 10%;
+    margin-top:40px;
+    font-size:27px;
+    font-weight:bold ;
+    border-radius: 10px;
+    color:white ;
+    text-align: center;
+    height: 47px;
+
+    
+}
+.login2{
+    height: 80%;
+    padding-top:5px;
+}
+.login1:hover{
+    color:rgba(0, 255, 255, 0.406); 
+    font-size: 29px;
+}
+.homepage{
+    margin-top: 20px;
+    background-color: white;
+    width: 100%;
+    height:420px;
+
+}
+.whyR{
+    background-color:rgb(29, 29, 100);
+    width: 100%;
+}
+.why1{
+ text-align: center;
+ font-size: 27px;
+ color: white;
+ padding-top: 30px;
+ padding-bottom: 10px;
+ width: 100%;
+}
+.why2{
+    text-align: center;
+    font-size: 15px;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
+    width:90%
+}
+.why3{
+    font-size: 15px;
+    color: white;
+    width:40%;
+    margin-left: 4%;
+    float:left;
+    text-align: center;
+}
+.why32{
+    font-size: 15px;
+    color: white;
+    width:40%;
+    float: right;
+    margin-right: 4%;
+    text-align: center;
+    
+}
+.why31{
+
+    font-size: 23px;
+    padding-bottom: 20px;
+}
+.wh{
+    width:100%;
+    margin:20px;
+    height: 150px;
+}
+.button{
+    color: white;
+}
+.Contact{
+    background-color:rgb(29, 29, 100);
+    color: white;
+    font-size: 18px;
+    padding: 10px;
+}
+.contact2{
+font-size: 27px;
+margin-top:10px;
+margin-bottom: 20px;
+}
+.footer{
+    text-align: center;
+    padding:10px;
+    background-color:rgb(29, 29, 100);
+    color: white;
+}
+.d{
+    width:100%;
+    height: 750px;
+}
+.d1{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+.imglh{
+    margin: 45px;
+    float: left;
+}
+.d2{
+    margin:45px;
+    font-size: 20px;
+}
+.d3{
+    font-weight: bold;
+    font-size: 20px;
+}
+.d4{
+    font-size: 20px;
+}
+.d5{
+    font-size: 24px;
+    font-weight: bold;
+    width: 100px;
+    margin-left:20px;
+}
+.d6{
+    font-size: 20px;
+    margin-left:30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
